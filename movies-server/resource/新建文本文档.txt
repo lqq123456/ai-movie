@@ -1,0 +1,46 @@
+江山美人
+训龙高手
+雏菊
+金刚
+-------------------
+泰坦尼克 詹姆斯·卡梅隆  ，莱昂纳多·迪卡普里奥、凯特·温斯莱特
+美国队长 乔·庄斯顿    克里斯·埃文斯、海莉·阿特维尔、塞巴斯蒂安·斯坦、雨果·维文
+鬼子来了  姜文    姜文、姜鸿波、香川照之
+战狼2   吴京   吴京、弗兰克·格里罗、吴刚、张翰、卢靖姗、淳于珊珊、丁海峰
+午夜43路  杜玉贞    张兆辉，周俊伟，邵音音，蔡瀚亿
+何以为家  娜丁·拉巴基      赞恩·阿尔·拉菲亚、约丹诺斯·希费罗
+纵横四海  冯德伦     刘德华、舒淇、张静初、杨祐宁、让·雷诺
+
+
+db.movies.insert({id:'aq_1001',title:'泰坦尼克',score:4.8,count:1286,description:'',actor:'',director:'',price:100,image:'http://ap7p4z.natappfree.cc/10.jpg'});
+
+
+db.movies.insert({id:'dz_1003',title:'美国队长',score:3.8,count:983,description:'',actor:'',director:'',price:60,image:'http://ap7p4z.natappfree.cc/11.jpg'});
+
+
+db.movies.insert({id:'zz_1205',title:'鬼子来了',score:4.1,count:986,description:'',actor:'',director:'',price:50,image:'http://ap7p4z.natappfree.cc/12.jpg'});
+
+db.movies.insert({id:'zz_1207',title:'战狼2',score:4.6,count:2980,description:'',actor:'',director:'',price:120,image:'http://ap7p4z.natappfree.cc/13.jpg'});
+
+db.movies.insert({id:'kb_1210',title:'午夜43路',score:3.9,count:900,description:'',actor:'',director:'',price:50,image:'http://ap7p4z.natappfree.cc/14.jpg'});
+
+db.movies.insert({id:'xj_1212',title:'何以为家',score:4.2,count:1800,description:'',actor:'',director:'',price:80,image:'http://ap7p4z.natappfree.cc/15.jpg'});
+
+db.movies.insert({id:'xj_1214',title:'纵横四海',score:4.1,count:1000,description:'',actor:'',director:'',price:60,image:'http://ap7p4z.natappfree.cc/16.jpg'});
+--------------
+起风了        宫崎骏   庵野秀明、泷本美织 
+幸福的面包    三岛有纪子  大泉洋、原田知世、森宽和
+星际穿越      克里斯托弗·诺兰    马修·麦康纳、安妮·海瑟薇、杰西卡·查斯坦及迈克              尔·凯恩
+      
+钢铁侠       乔恩·费儒   小罗伯特·唐尼、格温妮斯·帕特洛、杰夫·布里吉斯
+加勒比海盗    戈尔·维宾斯基、罗伯·马歇尔、乔阿吉姆·罗恩尼以及艾斯彭·山德伯格
+              约翰尼·德普、奥兰多·布鲁姆、凯拉·奈特莉
+
+
+--------------------------------
+黑衣人4：全球追缉
+复仇者联盟3:无限战争
+胡桃夹子和四个王国
+寂静之地
+
+
