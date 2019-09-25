@@ -1,0 +1,184 @@
+
+.page .carousel{
+		width:100%;
+		height:440rpx;
+}
+	/* 热门电影的样式 开始 */
+.hot-title-wrapper{
+		margin-top:10rpx;
+		padding:20rpx;
+}
+.title-flex{
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+}
+.hot-icon{
+		width:30rpx;
+		height:30rpx;
+}
+.hot-title{
+		font-size: 20rpx;
+		font-weight:bold;
+		margin-left:10rpx;
+}
+.hot{
+		width:100%;
+		white-space: nowrap;
+}
+.single-poster{
+		margin-left:10rpx;
+		display:inline-block;
+}
+.poster-wrapper{
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+}
+.poster-icon{
+		width:200rpx;
+		height:270rpx;
+}
+.poster-title{
+		width:200rpx;
+		font-size:20rpx;
+		font-weight: bold;
+		overflow: hidden;
+		-o-text-overflow: ellipsis;
+		   text-overflow: ellipsis;
+}
+	/* 热门电影的样式 结束 */
+	/*热门预告样式开始*/
+.notice-wrapper{
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-flex-wrap: wrap;
+		    -ms-flex-wrap: wrap;
+		        flex-wrap: wrap;
+		padding:0rpx 20rpx 20rpx 20rpx;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+}
+.notice-single{
+		width:350rpx;
+		height:220rpx;
+		margin-bottom:10rpx;
+}
+	/*热门预告样式结束*/
+	/*猜你喜欢 样式开始*/
+.ulike-wrapper{
+		width:100%;
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		padding:0rpx 20rpx 20rpx 20rpx;
+}
+.ulike-single{
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		    -ms-flex-pack: justify;
+		        justify-content: space-between;
+		margin-bottom: 20rpx;
+}
+.ulike-pic{
+		width:180rpx;
+		height:190rpx;
+		border-radius: 3%;
+}
+.ulike-desc{
+		width:360rpx;
+		display:-webkit-box;
+		display:-webkit-flex;
+		display:-ms-flexbox;
+		display:flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+}
+.ulike-title{
+		font-size:24rpx;
+		font-weight: bold;
+		white-space: nowrap;
+		overflow: hidden;
+		-o-text-overflow: ellipsis;
+		   text-overflow: ellipsis;
+}
+.ulike-info{
+		font-size:16rpx;
+		color:#808080;
+}
+.ulike-praise{
+		width:180rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+                flex-direction: column;
+		border-left:2px dashed #C0C0C0;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+}
+.praise-ico{
+		width:40rpx;
+		height:40rpx;
+		-webkit-align-self: center;
+		    -ms-flex-item-align: center;
+		        align-self: center;
+}
+.praise-title{
+		font-size:24rpx;
+		-webkit-align-self: center;
+		    -ms-flex-item-align: center;
+		        align-self: center;
+		color:#FFC033;
+}
+.addOne{
+		font-weight:bold;
+		opacity: 0;
+}
+	/*猜你喜欢 样式结束*/
+

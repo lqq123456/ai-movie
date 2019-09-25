@@ -1,0 +1,1 @@
+<view>搜索页面<block wx:if="{{ds[0]==0}}"><view>为0时第一个</view></block><block wx:if="{{ds[0]==1}}"><view>为1时第二个</view></block></view>

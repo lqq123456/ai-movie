@@ -1,0 +1,23 @@
+
+.star-wrapper{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+}
+.star-ico{
+	width:30rpx;
+	height:30rpx;
+	margin-top:5rpx;
+}
+.star-score{
+	font-size:14px;
+	margin-left:6rpx;
+	color:#999999;
+}
+
